@@ -1,0 +1,21 @@
+.settings__setting {
+    padding: 20px 0;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.settings__setting-bottom-line{
+    border-bottom: 2px solid #FDD961;
+}
+.settings__setting i {
+    opacity: 0.8;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.settings__setting-column:last-child {
+    font-size: 18px;
+}
+.settings__setting-text{
+color:#FDD961;
+}
